@@ -25,7 +25,7 @@ def get_single_item_data(item_url):  #function to crawl the links on the webpage
 		href = "" + link.get('href')
 		print(href)
 		
-article_spider() 
+article_spider(1) 
 #this will generate the link of every single item on the first page
 
 
