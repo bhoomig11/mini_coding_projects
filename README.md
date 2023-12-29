@@ -1,2 +1,2 @@
 # mini_coding_projects
-learning programming
+This is a compilation of some of the projects that I did while learning programming languages.
