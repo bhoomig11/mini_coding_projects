@@ -6,7 +6,7 @@ using namespace std;
 // Using for loop here
 
 int fib(int n){
-	if(n == 0 || n == 1){
+	if(n == 0 || n == 1){ //first two cases
 		return 1;
 	}
 	int a = 0; 
@@ -22,8 +22,7 @@ int fib(int n){
 
 
 // Fibonacci number using recursion
-// Fibonacci Series is formed where the current number 
-// is the sum of last two numbers
+// Fibonacci Series is formed where the current number is the sum of last two numbers
 // Example: 1,1,2,3,5,8,13,21,34,55...
 // F(0) = F(1) = 1
 
